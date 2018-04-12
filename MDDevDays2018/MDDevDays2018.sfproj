@@ -34,6 +34,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Platform\Platform.csproj" />
     <ProjectReference Include="..\StatefulSessionService\StatefulSessionService.csproj" />
+    <ProjectReference Include="..\TimeService\TimeService.csproj" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
   <PropertyGroup>

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platform", "Platform\Platfo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatefulSessionService", "StatefulSessionService\StatefulSessionService.csproj", "{BC2F881D-9C71-43BA-9B1C-EA7CD3E10109}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeService", "TimeService\TimeService.csproj", "{2A158F0A-31A0-4DC8-B729-7B16069DF988}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,12 @@ Global
 		{BC2F881D-9C71-43BA-9B1C-EA7CD3E10109}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BC2F881D-9C71-43BA-9B1C-EA7CD3E10109}.Release|x64.ActiveCfg = Release|Any CPU
 		{BC2F881D-9C71-43BA-9B1C-EA7CD3E10109}.Release|x64.Build.0 = Release|Any CPU
+		{2A158F0A-31A0-4DC8-B729-7B16069DF988}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{2A158F0A-31A0-4DC8-B729-7B16069DF988}.Debug|x64.ActiveCfg = Debug|x64
+		{2A158F0A-31A0-4DC8-B729-7B16069DF988}.Debug|x64.Build.0 = Debug|x64
+		{2A158F0A-31A0-4DC8-B729-7B16069DF988}.Release|Any CPU.ActiveCfg = Release|x64
+		{2A158F0A-31A0-4DC8-B729-7B16069DF988}.Release|x64.ActiveCfg = Release|x64
+		{2A158F0A-31A0-4DC8-B729-7B16069DF988}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

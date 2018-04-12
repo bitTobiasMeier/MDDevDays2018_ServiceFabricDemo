@@ -25,6 +25,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\StatefulSessionService\StatefulSessionService.csproj" />
+    <ProjectReference Include="..\TimeService\TimeService.csproj" />
   </ItemGroup>
 
 </Project>
